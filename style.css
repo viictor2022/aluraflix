@@ -1,0 +1,40 @@
+:root
+{
+    --branco-principal: #FFFFFF;
+--cinza-secundario: #C0C0C0;
+--botao-azul:#167BF7;
+--cor-fo-fundo: #00030c;
+--fonte-principal;  'Inter';
+--boatao-efeito: #3C92FA;
+
+
+
+}
+* { 
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+body{
+    background-color: var(--cor-fo-fundo);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.principal {
+
+background-image: url("img/Background.png");
+background-repeat: no-repeat;
+background-size: contain;
+align-items: ;
+justify-content: center;
+}
+
+.container{
+    
+}
